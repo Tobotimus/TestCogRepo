@@ -1,6 +1,0 @@
-[submodule "TestSubmoduleCog"]
-	path = TestSubmoduleCog
-	url = https://github.com/Tobotimus/TestSubmoduleCog.git
-[submodule "TestSubmoduleCog2"]
-	path = TestSubmoduleCog2
-	url = https://github.com/Tobotimus/TestSubmoduleCog2.git
