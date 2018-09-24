@@ -1,0 +1,3 @@
+[submodule "TestSubmoduleCog"]
+	path = TestSubmoduleCog
+	url = https://github.com/Tobotimus/TestSubmoduleCog.git
